@@ -1,0 +1,5 @@
+What does this statement mean?
+
+git push origin master
+
+This command will commit the changes from your local branch to the master branch
