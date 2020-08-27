@@ -1,3 +1,5 @@
+#Jason Jellie
+#
 COMP=g++ -Wall -std=c++11
 
 all: lab1
